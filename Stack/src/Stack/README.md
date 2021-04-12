@@ -1,10 +1,12 @@
-A stack is a linear data structure that follows the LIFO (Last–In, First–Out) principle.
-That means the objects can be inserted or removed only at one end of it, also called a top.
+Stack; Data Structure Assignment
+A stack is a linear data structure follows the LIFO Last In, First Out. This means that the objects can be inserted, removed only at one end, also called a top.
+The stack supports the following:
 
-The stack supports the following operations:
-Push inserts an item at the top of the stack (i.e., above its current top element).
-Pop removes the object at the top of the stack and returns that object from the function. The stack size will be decremented by one.
-isEmpty tests if the stack is empty or not.
-isFull tests if the stack is full or not.
-Peek returns the object at the top of the stack without removing it from the stack or modifying the stack in any way.
-Size returns the total number of elements present in the stack.
+Push: push inserts an item at the top of the stack that is above its currents top element.
+Pop: pop remove the item at the top of the stack, which returns the return from function. 
+A stack size will decremented by one.
+isEmpty show if the stack isempty or not empty.
+isFull show if the stack isfull or not full.
+Peek returns the object or item at the top of the stack without removing it from the stack or modifying the stack.
+Size returns the total number of elements show in the stack.
+
