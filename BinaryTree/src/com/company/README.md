@@ -1,4 +1,5 @@
 Data Structure Assignment
+BinaryTree
 
 A binary tree is a unique data structure used for data storage purposes. 
 A binary tree has a unique condition that each node can have a maximum of two children. 
