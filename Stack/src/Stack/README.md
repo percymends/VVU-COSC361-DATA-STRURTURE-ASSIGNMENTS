@@ -1,10 +1,10 @@
-A binary tree is a unique data structure used for data storage purposes.
-A binary tree has a unique condition that each node can have a maximum of two children. 
-A binary tree has the benefit of having both an ordered array and a LinkedList as search as quick as in a Sorted array, and insertion or deletion operation are as fast as in a LinkedList.
+A stack is a linear data structure that follows the LIFO (Last–In, First–Out) principle.
+That means the objects can be inserted or removed only at one end of it, also called a top.
 
-Applications of BinaryTree:
-Implementing routing table in a router.
-Data compression code.
-Its implementation of the expression parsers and expression solvers.
-To solve database problem such as indexing.
-Expression evaluation.
+The stack supports the following operations:
+•	push inserts an item at the top of the stack (i.e., above its current top element).
+•	pop removes the object at the top of the stack and returns that object from the function. The stack size will be decremented by one.
+•	isEmpty tests if the stack is empty or not.
+•	isFull tests if the stack is full or not.
+•	peek returns the object at the top of the stack without removing it from the stack or modifying the stack in any way.
+•	size returns the total number of elements present in the stack.
