@@ -1,4 +1,6 @@
 Stack; Data Structure Assignment
+
+
 A stack is a linear data structure follows the LIFO Last In, First Out. This means that the objects can be inserted, removed only at one end, also called a top.
 The stack supports the following:
 
